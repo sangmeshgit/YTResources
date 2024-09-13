@@ -164,7 +164,7 @@ kubectl get pods
 
 Task 3: Setup Load Balancer Service
 -----------------------------------
-nano game-svc.yaml 
+vi game-svc.yaml 
 
 apiVersion: v1
 kind: Service
